@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400729851164",
+    "project_id": "checklist-painel",
+    "storage_bucket": "checklist-painel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400729851164:android:c73a8c68bd3084a883e6d9",
+        "android_client_info": {
+          "package_name": "com.example.checklist_painel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkE1sTQvG1wXBcpFq9C5V-A9UVFoVjSrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
